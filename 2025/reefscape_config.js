@@ -92,6 +92,10 @@ var config_data = `
     { "name": "Net Score",
       "code": "ans",
       "type": "counter"
+    },
+    { "name": "Test Input",
+      "code": "test",
+      "type": "timer"
     }
   ],
   "teleop": [
